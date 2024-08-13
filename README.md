@@ -2,7 +2,7 @@
 Summer 2024 TechLab Data Science group 2 project
 
 members:  
--Leonard Mosel
+-Leonard Mosel  
 -Muslim Guseynov
 -
 
